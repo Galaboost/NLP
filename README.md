@@ -25,4 +25,4 @@ Sous Windows
 
 ## Rapport
 
-[**Rapport**](C:\Users\Sukev\OneDrive\Documents\Master\Semestre 2\TER\NLP\rapport.pdf)
+[**Rapport**](rapport.pdf)
